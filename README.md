@@ -24,6 +24,9 @@ DESCENDRA predicts danger before landing, so future missions can choose the safe
 - Three.js for 3D Moon
 - JavaScript / HTML / CSS
 - NASA Moon Data
+## Use of AI / Super Intelligence
+
+We used AI tools (Meta AI / ChatGPT) for brainstorming, researching lunar data, and editing text. The core idea, Safety Score logic, design, coding, debugging, and testing were done by our team with help from our seniors.
 
 ## Our Data Model
 
