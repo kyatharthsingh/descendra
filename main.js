@@ -1008,3 +1008,21 @@ commSlider.addEventListener('input', updateComm)
 updateComm()
 
 console.log('DESCENDRA Lunar Landing Navigator loaded successfully.')
+const dataSection = document.createElement("section");
+dataSection.style.padding = "60px 20px";
+dataSection.style.textAlign = "center";
+dataSection.style.background = "#0a1628";
+dataSection.style.color = "white";
+dataSection.innerHTML = `
+  <h2 style="font-size: 32px;">Our Data Model</h2>
+  <p style="max-width: 650px; margin: 15px auto; color: #cbd5e1; line-height: 1.6;">
+    DESCENDRA is built on real analysis of Chandrayaan-3 Lander, Rover,
+    Propulsion & Seismic Data. We learned from India's successful landing
+    to predict the safest spot for the next mission.
+  </p>
+  <a href="https://github.com/kyatharthsingh/CHANDRAYAN-3-PROJECT" target="_blank"
+     style="display: inline-block; background: #ff6b35; color: white; padding: 12px 25px; border-radius: 25px; font-weight: bold; text-decoration: none; margin-top: 10px;">
+    View Chandrayaan-3 Analysis →
+  </a>
+`;
+document.body.appendChild(dataSection);
