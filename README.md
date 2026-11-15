@@ -34,9 +34,9 @@ DESCENDRA predicts danger before landing, so future missions can choose the safe
 
 ## Team DESCENDRA
 
-- Yatharth Singh - Project Lead and Developer
+- Yatharth Singh - Project Lead, Developer, Presenter & Demo Lead
 - Aditya Pratap Singh - Developer and 3D Engineer
-- Nurboluly Dias - Presenter & Demo Lead
+- Nurboluly Dias - Research & Documentation Lead
 - Aditya Raj Singh - Data Analyst
 - Lakshya Lahari Singh - UI Designer & Creative Lead
 - Yuvraj Singh - Software Engineer 
