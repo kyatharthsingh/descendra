@@ -25,6 +25,23 @@ DESCENDRA predicts danger before landing, so future missions can choose the safe
 - JavaScript / HTML / CSS
 - NASA Moon Data
 
+## Our Data Model
+
+DESCENDRA is built on real data analysis, not just a concept.
+
+We first analyzed the complete Chandrayaan-3 Mission to understand how a real lunar landing works.
+
+**Our Reference Project:**
+[Chandrayaan-3 Data Analysis Project](https://github.com/kyatharthsingh/CHANDRAYAN-3-PROJECT)
+
+**What We Analyzed in That Project:**
+- Lander Data - lander_data.xls - Mass, Power, Landing Parameters
+- Rover Data - rover_data.xls - Pragyan Rover Movement & Performance
+- Propulsion Module - Propulsion & Fuel Analysis
+- Seismic & Temperature Data - Moon's Surface Conditions
+
+**How it helps DESCENDRA:**
+The learnings from Chandrayaan-3's successful landing at Shiv Shakti Point helped us build our Safety Score Model. We now check Slope, Craters & Hazards to predict the safest landing spot for future missions.
 ## How to Run
 
 1. Download this project
