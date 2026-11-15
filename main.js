@@ -1025,4 +1025,9 @@ dataSection.innerHTML = `
     View Chandrayaan-3 Analysis →
   </a>
 `;
-document.body.appendChild(dataSection);
+const footer = document.querySelector("footer");
+if (footer) {
+  footer.parentNode.insertBefore(dataSection, footer);
+} else {
+  document.body.appendChild(dataSection);
+}
